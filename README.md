@@ -3,7 +3,7 @@ cke.json
 hasan477_ 
 haki_gecmez
 xd.rabia.61
-muhammetazlag
+muhammetazlag , halit_gecmez
 _yusuf_erol_47
 ferhat.gecmz47
 mehmetgecmezz2
